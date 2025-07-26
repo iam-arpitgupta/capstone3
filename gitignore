@@ -1,2 +1,5 @@
 atlas/
 .venv
+/Users/arpitgupta/Documents/capstone3-text_summarer/capstone3/notebooks/data.csv
+/Users/arpitgupta/Documents/capstone3-text_summarer/capstone3/notebooks/IMDB.csv
+src.egg-info/
